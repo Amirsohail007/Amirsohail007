@@ -9,7 +9,6 @@
 <p>
   <a href="https://linkedin.com/in/mr-amir-sohail"><img src="https://img.shields.io/badge/LinkedIn-mr--amir--sohail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mramirsohail@protonmail.com"><img src="https://img.shields.io/badge/Email-mramirsohail%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
-  <a href="https://clewpath.com"><img src="https://img.shields.io/badge/ClewPath-clewpath.com-7F22FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ClewPath"/></a>
 </p>
 
 </div>
@@ -77,17 +76,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
----
-
-### 📂 Open-source on this profile
-
-| Repo | What it is |
-|---|---|
-| [**kharcha**](https://github.com/Amirsohail007/kharcha) | Private Android app for living on a monthly budget: import a PhonePe statement, categorize payments, see what's left |
-| [**log-observatory-signoz**](https://github.com/Amirsohail007/log-observatory-signoz) | Self-hosted observability: SigNoz + OpenTelemetry collectors shipping logs through Kafka into ClickHouse |
-| [**ecom-scraper**](https://github.com/Amirsohail007/ecom-scraper) | Async e-commerce scraping API built on FastAPI, aiohttp, and BeautifulSoup, Dockerized |
-| [**html-to-pdf-api**](https://github.com/Amirsohail007/html-to-pdf-api) | HTML → PDF conversion service with Docker, GitHub Actions, and AWS CodeDeploy |
 
 ---
 
