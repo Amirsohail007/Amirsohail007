@@ -9,7 +9,7 @@
 <p>
   <a href="https://linkedin.com/in/mr-amir-sohail"><img src="https://img.shields.io/badge/LinkedIn-mr--amir--sohail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mramirsohail@protonmail.com"><img src="https://img.shields.io/badge/Email-mramirsohail%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
-  <a href="https://clewpath.com"><img src="https://img.shields.io/badge/Building-clewpath.com-7F22FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ClewPath"/></a>
+  <a href="https://clewpath.com"><img src="https://img.shields.io/badge/ClewPath-clewpath.com-7F22FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ClewPath"/></a>
 </p>
 
 </div>
